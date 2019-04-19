@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-pttrack",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "this is an event track SDK for business of ptmind.",
   "main": "index.js",
   "scripts": {
@@ -10,13 +10,8 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
-  "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-
-  },
+  "author": "guangfa.miao",
+  "license": "Copyright@2019",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:0x4d4746h/react-native-pttrack.git"
